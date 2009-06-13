@@ -1,4 +1,4 @@
 brasil_members:
-  parent: brasil
-  member_id: 28
-  member_type: Country
+  zone_id: brasil
+  zoneable_id: 28
+  zoneable_type: Country
